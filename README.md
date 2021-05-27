@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Sharma</h1>
 <h3 align="center">A tech enthusiast and nature admirer</h3>
 <p align="right">
-<img src="https://user-images.githubusercontent.com/56972234/110241218-a6b96080-7f75-11eb-9bf2-dc9310955e6e.gif" width="300" alt="iComics on an iPhone XS Max" align="right" />
+<img src="https://user-images.githubusercontent.com/56972234/119770350-b2b02100-bed9-11eb-83f7-8ed8ec349578.gif" width="300" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj056&label=Profile%20views&color=0e75b6&style=flat" alt="sj056" /> </p>
 
@@ -13,7 +13,8 @@
 - 📫 How to reach me **shrutijangid5601@gmail.com**
 
 - 🎧 Also loves to sketch while listening to songs
-
+<!-- ![image_processing20210112-22378-nmw60z](https://user-images.githubusercontent.com/56972234/119770350-b2b02100-bed9-11eb-83f7-8ed8ec349578.gif)
+ -->
 - 😁 Nice to meet you!
 
 <h3 align="left">Connect with me:</h3>
