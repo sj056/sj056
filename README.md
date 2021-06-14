@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Sharma</h1>
-<h3 align="center">A tech enthusiast and nature admirer</h3>
+<h3 align="center">A tech enthusiast</h3>
 <p align="right">
 <img src="https://user-images.githubusercontent.com/56972234/119770350-b2b02100-bed9-11eb-83f7-8ed8ec349578.gif" width="300" alt="iComics on an iPhone XS Max" align="right" />
 </p>
@@ -8,14 +8,13 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **anything related to frontend web development**
+- 💬 Ask me about **frontend web development**
 
 - 📫 How to reach me **shrutijangid5601@gmail.com**
 
-- 🎧 Also loves to sketch while listening to songs
+- 🎧 Also loves to sketch
 <!-- ![image_processing20210112-22378-nmw60z](https://user-images.githubusercontent.com/56972234/119770350-b2b02100-bed9-11eb-83f7-8ed8ec349578.gif)
  -->
-- 😁 Nice to meet you!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
