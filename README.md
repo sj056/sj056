@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj056&label=Profile%20views&color=0e75b6&style=flat" alt="sj056" /> </p>
 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 SOFTWARE DEVELOPER
 
-- 💬 Ask me about **frontend web development**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **shrutijangid5601@gmail.com**
 
