@@ -8,7 +8,7 @@
 
 - 🌱 SOFTWARE DEVELOPER
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN/MEAN Stack**
 
 - 📫 How to reach me **shrutijangid5601@gmail.com**
 
