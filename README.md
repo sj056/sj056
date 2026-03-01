@@ -1,5 +1,5 @@
 # Hi 👋, I'm Shruti Sharma
-### Senior Software Engineer | Systems Architect | M.Eng Aspirant
+### Senior Software Engineer | Systems Architect 
 
 I am a performance-driven Software Engineer specializing in building scalable, distributed web architectures. [cite_start]Currently, I'm architecting high-traffic platforms at **Unstop**, serving over 25 million users[cite: 13, 15, 18]. My focus lies at the intersection of robust backend infrastructure and high-performance frontend ecosystems.
 
