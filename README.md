@@ -1,39 +1,62 @@
-# Hi 👋, I'm Shruti Sharma
-### Senior Software Engineer | Systems Architect 
+<h1 align="center">Hi 👋, I'm Shruti Sharma</h1>
 
-I am a performance-driven Software Engineer specializing in building scalable, distributed web architectures. [cite_start]Currently, I'm architecting high-traffic platforms at **Unstop**, serving over 25 million users[cite: 13, 15, 18]. My focus lies at the intersection of robust backend infrastructure and high-performance frontend ecosystems.
+<h3 align="center">A tech enthusiast</h3>
 
----
+<p align="right">
 
-### 🛠️ Professional Focus
-* [cite_start]**Scalability:** Architecting modular web systems and micro-frontends for massive user bases[cite: 18, 21].
-* [cite_start]**Performance:** Optimizing Core Web Vitals and implementing advanced code-splitting (85%+ Lighthouse scores)[cite: 19].
-* [cite_start]**Distributed Systems:** Designing concurrency-safe tools like **HydraRate**, a distributed rate-limiter using Redis and Lua[cite: 51, 53].
-* [cite_start]**Cloud & Infrastructure:** Google Cloud certified in Kubernetes, network security, and cloud resource management.
+<img src="https://user-images.githubusercontent.com/56972234/119770350-b2b02100-bed9-11eb-83f7-8ed8ec349578.gif" width="300" alt="iComics on an iPhone XS Max" align="right" />
 
----
+</p>
 
-### 🧪 Featured Projects
-* [cite_start]**[HydraRate](https://github.com/sj056/HydraRate):** A distributed rate-limiting NPM package implementing the Token Bucket algorithm with atomic Lua scripting[cite: 51, 53].
-* [cite_start]**[Mindle](https://github.com/sj056/Mindle-client):** An AI-powered voice journaling PWA using GraphQL, Node.js, and NLP sentiment analysis[cite: 45, 48, 49].
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sj056&label=Profile%20views&color=0e75b6&style=flat" alt="sj056" /> </p>
 
----
 
-### 🧰 Tech Stack & Tools
-* [cite_start]**Languages:** TypeScript, JavaScript (ES6+), SQL, HTML/CSS[cite: 63, 64].
-* [cite_start]**Frontend:** React, Angular, RxJS, Micro-Frontends, SSR/SSG[cite: 23, 63].
-* [cite_start]**Backend:** Node.js, Express, REST & GraphQL APIs, ASP.NET[cite: 32, 63, 64].
-* [cite_start]**Databases/State:** Redis (Lua), MongoDB, SQL Server[cite: 57, 64].
-* [cite_start]**Cloud/DevOps:** Google Cloud Platform (GCP), Kubernetes, Git, Agile[cite: 23, 71].
 
----
 
-### 📊 Stats & Recognition
-* [cite_start]**GDSC Lead:** Former Google Developer Student Club Lead (2021-2022)[cite: 79].
-* [cite_start]**IELTS:** 7.0 (Proficient in English)[cite: 72].
-* [cite_start]**Current Pursuit:** Advancing German language proficiency (A2 Level)[cite: 78].
 
----
+- 🌱 SOFTWARE DEVELOPER
 
-### 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/shruti-sharma-1b1b131a6) | [Portfolio](https://build-with-shruti-sharma.vercel.app) | [Twitter](https://twitter.com/jangid006)
+
+
+- 💬 Ask me about **MERN/MEAN Stack**
+
+
+
+- 📫 How to reach me **shrutijangid5601@gmail.com**
+
+
+
+- 🎧 Also loves to sketch
+
+<!-- ![image_processing20210112-22378-nmw60z](https://user-images.githubusercontent.com/56972234/119770350-b2b02100-bed9-11eb-83f7-8ed8ec349578.gif)
+
+ -->
+
+
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+<a href="https://twitter.com/jangid006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jangid006" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/shruti-sharma-1b1b131a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shruti-sharma-1b1b131a6" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/shrutijangid5601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shrutijangid5601" height="30" width="40" /></a>
+
+</p>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sj056&show_icons=true&locale=en&layout=compact" alt="sj056" /></p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sj056&show_icons=true&locale=en" alt="sj056" /></p>
+
