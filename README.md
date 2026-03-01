@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-build--with--shruti--sharma.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://build-with-shruti-sharma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-sharma-1b1b131a6)
-[![Email](https://img.shields.io/badge/Email-shrutisharma6501@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutisharma6501@gmail.com)
+[![Email](https://img.shields.io/badge/Email-iamshrutisharma056@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamshrutisharma056@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sj056&label=Profile+Views&color=0A0A0A&style=for-the-badge)](https://github.com/sj056)
 
 </div>
@@ -14,14 +14,7 @@
 ## ⚡ What I Do
 
 > I build **scalable web systems** that serve millions — with a relentless focus on performance, clean architecture, and developer experience.
-
-Currently a **Senior Software Engineer at [Unstop](https://unstop.com)** (formerly Dare2Compete), where I architect frontend systems for **25M+ users**.
-
-- 🚀 Took Lighthouse scores from **35% → 85%+** through Core Web Vitals optimization
-- 🏗️ Architected **micro-frontend** systems enabling independent team deployments
-- ⚡ Built **reactive state architecture** with RxJS across distributed UI modules
-- 📦 Published open-source distributed rate-limiting library — **[HydraRate](https://github.com/sj056/HydraRate)**
-- 🎤 Former **Google Developer Student Club Lead** @ Dronacharya College of Engineering
+> Former **Google Developer Student Club Lead** @ Dronacharya College of Engineering
 
 ---
 
@@ -41,16 +34,13 @@ Currently a **Senior Software Engineer at [Unstop](https://unstop.com)** (former
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Infrastructure & Practices**
 
 ![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-FF6B35?style=flat-square)
 ![SSR](https://img.shields.io/badge/SSR/SSG-0070F3?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-6DB33F?style=flat-square)
-![Docker](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -60,7 +50,7 @@ Currently a **Senior Software Engineer at [Unstop](https://unstop.com)** (former
 <tr>
 <td width="50%">
 
-### 💧 [HydraRate](https://github.com/sj056/HydraRate)
+### [HydraRate](https://github.com/sj056/HydraRate)
 **Distributed Rate Limiting for Node.js**
 
 A production-grade NPM package implementing the Token Bucket algorithm with **Redis + Lua scripting** for atomic operations — preventing race conditions in high-concurrency environments.
@@ -70,7 +60,7 @@ A production-grade NPM package implementing the Token Bucket algorithm with **Re
 </td>
 <td width="50%">
 
-### 🧠 [Mindle](https://github.com/sj056/Mindle-client)
+### [Mindle](https://github.com/sj056/Mindle-client)
 **AI-Powered Sentiment Monitoring System**
 
 A Progressive Web App with **voice-based journaling**, real-time speech-to-text, and ML sentiment classification. Features Google OAuth, GraphQL APIs, and offline support.
@@ -100,20 +90,47 @@ A Progressive Web App with **voice-based journaling**, real-time speech-to-text,
 
 ---
 
-## 🏆 Certifications
+## 🌱 Currently
 
-- ☁️ **6× Google Cloud** — Kubernetes, Cloud Infrastructure, Networking, Security
-- 🖥️ **Google IT Support** — Technical Support Fundamentals, Computer Networking
-- 🎨 **Namaste Frontend System Design** — NamasteDev.com
-- 🌍 **IELTS 7.0** — English proficiency (Listening: 7.5, Reading: 7.0)
+- 🔭 Building scalable web systems
+- 🎨 Painting & illustrating when away from keyboard
 
 ---
 
-## 🌱 Currently
+## 🎨 Beyond the Code
 
-- 🔭 Building scalable web systems at **Unstop** serving 25M+ users
-- 🌍 Learning **German** (A2 level)
-- ✏️ Sketching when away from keyboard
+> I paint and illustrate — on canvas and digitally. Art is where I think differently.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="1000050727-01.jpeg" width="220" style="border-radius:6px"/><br/>
+      <sub><b>Always</b> · Acrylic on canvas</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="IMG_0687.jpg" width="220" style="border-radius:6px"/><br/>
+      <sub><b>Cosmic Shiva</b> · Acrylic on canvas</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="IMG_6393.jpeg" width="220" style="border-radius:6px"/><br/>
+      <sub><b>The Eye</b> · Mixed media</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="illustration3.jpg" width="220" style="border-radius:6px"/><br/>
+      <sub><b>Stargazing</b> · Digital illustration</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="illustration2.jpeg" width="220" style="border-radius:6px"/><br/>
+      <sub><b>The Lamp</b> · Digital illustration</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="illustration1.jpg" width="220" style="border-radius:6px"/><br/>
+      <sub><b>Angel</b> · Digital illustration</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
